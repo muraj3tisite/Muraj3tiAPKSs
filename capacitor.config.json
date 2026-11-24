@@ -1,0 +1,9 @@
+{
+  "appId": "com.muraj3ti.murajaati",
+  "appName": "مراجعتي",
+  "webDir": "www",
+  "server": {
+    "url": "https://muraj3ti1.github.io/Muraj3tiapp/",
+    "allowNavigation": ["*.firebaseapp.com", "accounts.google.com"]
+  }
+}
